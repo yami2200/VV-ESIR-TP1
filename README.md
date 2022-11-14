@@ -2,7 +2,7 @@
 
 This practical session will help to better understand validation and verification in practice, while being exposed to scientific materials.
 
-## Exercices
+## Exercises
 
 You can access the exercises [here](sujet.md)
 
